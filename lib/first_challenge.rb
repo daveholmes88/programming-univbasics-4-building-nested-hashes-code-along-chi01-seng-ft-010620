@@ -1,11 +1,11 @@
 def first_challenge
    epic_tragedy = {
      montague: {
-       :patriarch => {
+       :patriarch=> {
          :name => "Lord Montague",
          age: "53"
        }
-       :matriarch => {
+       :matriarch=> {
          name: "Lady Montague",
          age: "54"
        }
@@ -13,7 +13,7 @@ def first_challenge
          name: "Romeo",
          age: "15"
        }
-       :hero_friends => [
+       :hero_friends=> [
          {
            name: "Benvolio",
            age: "17",
@@ -27,7 +27,7 @@ def first_challenge
        ]
      },
      capulet: {
-       :patriarch => {
+       :patriarch=> {
          name: "Lord Capulet",
          age: "50"
        }
@@ -40,7 +40,7 @@ def first_challenge
          age: "15"
          status: "alive"
        }
-       :heroine_friends => [
+       :heroine_friends=> [
          {
            name: "Steven",
            age: "30",
