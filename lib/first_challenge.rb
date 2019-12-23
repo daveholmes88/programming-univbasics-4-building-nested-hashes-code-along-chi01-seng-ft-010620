@@ -21,7 +21,7 @@ def first_challenge
          },
          {
            name: "Mercutio",
-           age: "18"
+           age: "18",
            attitude: "Hot-headed"
          }
        ]
@@ -37,7 +37,7 @@ def first_challenge
        },
        heroine: {
          name: "Juliet",
-         age: "15"
+         age: "15",
          status: "alive"
        },
        :heroine_friends=> [
