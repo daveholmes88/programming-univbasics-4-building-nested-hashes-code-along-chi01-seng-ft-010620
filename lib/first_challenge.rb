@@ -10,7 +10,7 @@ def first_challenge
          age: "54"
        }
        :hero => {
-         name: "Romeo", 
+         name: "Romeo",
          age: "15"
        }
        :hero_friends => [
@@ -28,7 +28,7 @@ def first_challenge
      },
      capulet: {
        :patriarch => {
-         name: "Lord Capulet", 
+         name: "Lord Capulet",
          age: "50"
        }
        matriarch: {
@@ -36,7 +36,7 @@ def first_challenge
          age: "51"
        }
        heroine: {
-         name: "Juliet", 
+         name: "Juliet",
          age: "15"
          status: "alive"
        }
@@ -47,8 +47,8 @@ def first_challenge
            attitude: "confused"
        }
        {
-         name: "Nurse", 
-         age: "44", 
+         name: "Nurse",
+         age: "44",
          attitude: "worried"
        }
      ]
